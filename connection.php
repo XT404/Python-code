@@ -1,8 +1,8 @@
 <?php
 
-    $con=mysqli_connect('localhost','root','','test');
+    $connection=mysqli_connect('localhost','root','','test');
 
-    if(!$con)
+    if(!$connection)
     {
         die(' Please Check Your Connection'.mysqli_error($con));
     }
