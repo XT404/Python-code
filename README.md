@@ -1,1 +1,1 @@
-# Python-code
+This is a PHP code of connections
