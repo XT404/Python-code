@@ -7,6 +7,6 @@
         die(' Please Check Your Connection'.mysqli_error($con));
     }
     else{
-        //echo"CONNCET";
+        echo"CONNCET SUCCESSFUL";
     }
 ?>
